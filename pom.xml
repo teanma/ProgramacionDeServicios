@@ -5,7 +5,7 @@
     <groupId>org.iesfm.shop-jms</groupId>
     <artifactId>tienda-jms-multimodule</artifactId>
     <packaging>pom</packaging>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
 
     <scm>
         <url>https://github.com/teanma/tienda-jms-multimodule</url>
